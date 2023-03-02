@@ -1,0 +1,5 @@
+interface GymEquipmentable {
+  boolean inUse();
+  void setTraining();
+  void equipmentUsed(GymEquipmentable e);
+}

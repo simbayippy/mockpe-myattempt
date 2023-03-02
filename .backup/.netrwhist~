@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/plab/plab8199/.ssh'
+let g:netrw_dirhist_5='/home/course/cs1010/grading/pe02-grading/configs'
+let g:netrw_dirhist_4='/home/course/cs1010/grading/as08-grading/lab-scripts'
+let g:netrw_dirhist_3='/home/course/cs1010/bin'
+let g:netrw_dirhist_2='/home/course/cs1010/grading/as05-grading/B05/as05-alvinnnnnnnnnn'
+let g:netrw_dirhist_1='/home/course/cs1010/grading/as04-grading/C05/as04-PDHung1104'
+let g:netrw_dirhist_0='/home/course/cs1010/grading/as04-grading/bats'
+let g:netrw_dirhist_9='/home/course/cs1010/grading/as03-grading/B04/as03-AdithyaMangalam'
+let g:netrw_dirhist_8='/home/course/cs1010/grading/as04-grading/E07/as04-tannerlie/.git'
+let g:netrw_dirhist_7='/home/course/cs1010/labs/as06-skeleton/.git'
